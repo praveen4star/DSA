@@ -1,0 +1,1 @@
+{"name":"Local: count_pair","url":"f:\\C++\\week_2\\Two_Pointer\\count_pair.cpp","tests":[{"id":1630300328213,"input":"11 10\n1 4 4 4 5 5 5 6 6 6 11","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\C++\\week_2\\Two_Pointer\\count_pair.cpp","group":"local","local":true}
